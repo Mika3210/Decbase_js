@@ -1,0 +1,126 @@
+.Section_subscribe{
+    /* border:  2px solid yellow; */
+    min-width: 300px;
+    /* margin: 0 auto; */
+    padding: 35px 50px 35px 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.Section_subscribe_h2{
+    color: #212121;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px; /* 58.333% */
+    letter-spacing: 3.84px;
+    text-align: center;
+}
+
+.line-img{
+    display: block;
+    padding: 30px 0;
+    margin: 0 auto;
+}
+
+.Section_subscribe_MainP{
+    color: #646464;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+}
+
+.subscr{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.mail {
+    display:block;
+    margin:0 auto;
+    /* width: 60px; */
+    height: 30px;
+    margin-top: 30px;
+    
+}
+
+.footer {
+    /* padding: 60px 0; */
+}
+
+.end{
+    /* border:  2px solid green; */
+    /* padding: 65px 50px 65px 50px; */
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; */
+    background: #F8F8F8;
+}
+
+.footer_flex {
+    background: #F8F8F8;
+    min-height: 200px;
+    /* padding: 0 30px; */
+    display: flex;
+    /* выравнивание */
+    justify-content: space-between;
+    /* align-items: flex-end; */
+    align-items: flex-start;
+    flex-wrap: wrap;
+}
+
+.footer_txt_1{
+    /* border:  2px solid pink; */
+    max-width: 350px;
+    margin-top: 20px;
+}
+
+.foot_text_0{
+     color: #646464;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */
+}
+
+.footer_logo {
+
+}
+
+.footer_txt_2{
+    /* border:  2px solid red; */
+    max-width: 200px;
+    margin-top: 20px;
+}
+
+.foot_title{
+    color: #212121;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 40px; /* 166.667% */
+}
+
+.foot_text{
+    color: #646464;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 50px;
+}
+
+.footer_icon {
+    /* border:  2px solid blue; */
+    /* width: 10%; */
+    /* min-width: 112px; */
+    max-width: 200px;
+    margin-top: 20px;
+}
+
+.foot_icon{}
